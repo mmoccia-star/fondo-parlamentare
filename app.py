@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/app_semplificato_finale.py << 'EOF'
 import streamlit as st
 import pandas as pd
 import plotly.express as px
